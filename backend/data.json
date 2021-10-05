@@ -1,0 +1,103 @@
+[
+  {
+    "model": "auth.user",
+    "pk": 1,
+    "fields": {
+      "username": "admin",
+      "is_superuser": true,
+      "is_staff": true,
+      "password":"pbkdf2_sha256$260000$5cJPRgGq7bzq1usrzhS1mr$XoLgJEw5YoBkVdaWwsT3bfwtZachOsZod9YQtIVx07w="
+    }
+  },
+  {
+    "model": "api.statistics",
+    "pk": 1,
+    "fields": {
+      "date": "2021-04-10",
+      "views": "102",
+      "clicks": "4564",
+      "cpc": "23.45",
+      "cost": "32.67",
+      "cost_currency": "RUB",
+      "cpm": "32"
+    }
+  },
+  {
+    "model": "api.statistics",
+    "pk": 2,
+    "fields": {
+      "date": "2021-04-8",
+      "views": "10",
+      "clicks": "458",
+      "cpc": "2.45",
+      "cost": "3.67",
+      "cost_currency": "RUB",
+      "cpm": "332"
+    }
+  },
+  {
+    "model": "api.statistics",
+    "pk": 3,
+    "fields": {
+      "date": "2021-03-20",
+      "views": "10205",
+      "clicks": "45654054",
+      "cpc": "238.45",
+      "cost": "342.67",
+      "cost_currency": "RUB",
+      "cpm": "3235"
+    }
+  },
+  {
+    "model": "api.statistics",
+    "pk": 4,
+    "fields": {
+      "date": "2020-03-01",
+      "views": "102572",
+      "clicks": "4454",
+      "cpc": "545.455",
+      "cost": "375.67",
+      "cost_currency": "RUB",
+      "cpm": "3435"
+    }
+  },
+  {
+    "model": "api.statistics",
+    "pk": 5,
+    "fields": {
+      "date": "2021-02-08",
+      "views": "10255",
+      "clicks": "455564",
+      "cpc": "253.45",
+      "cost": "321.67",
+      "cost_currency": "RUB",
+      "cpm": "3232"
+    }
+  },
+  {
+    "model": "api.statistics",
+    "pk": 6,
+    "fields": {
+      "date": "2018-04-04",
+      "views": "12",
+      "clicks": "454",
+      "cpc": "2.4",
+      "cost": "4.01",
+      "cost_currency": "RUB",
+      "cpm": "3"
+    }
+  },
+  {
+    "model": "api.statistics",
+    "pk": 7,
+    "fields": {
+      "date": "2020-01-30",
+      "views": "1028425",
+      "clicks": "445544",
+      "cpc": "2453",
+      "cost": "52.7",
+      "cost_currency": "RUB",
+      "cpm": "7222"
+    }
+  }
+]
