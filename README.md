@@ -6,6 +6,7 @@
   - restframework
 - Docker
 - PostgreSQL
+- Unit tests
 
 ## Usage: ##
 
