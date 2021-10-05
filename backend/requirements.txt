@@ -1,7 +1,5 @@
 django
 djangorestframework
-django-rest-swagger
-ipython
 django-money
 psycopg2-binary
 
