@@ -13,5 +13,6 @@ fi
 
 python manage.py migrate
 python manage.py loaddata data
+python manage.py test
 
 exec "$@"

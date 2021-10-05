@@ -43,7 +43,8 @@ def sort_response(response, request):
     :return: sorted response.
     """
     ordering = request.query_params.get('ordering')
-    response.data = sort_dict(response.data, ordering=ordering)
+    if ordering:
+        response.data = sort_dict(response.data, ordering=ordering)
 
     return response
 

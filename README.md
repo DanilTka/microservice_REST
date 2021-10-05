@@ -20,7 +20,7 @@
 http://127.0.0.1:8000/?from=2018-01-01&to=2021-05-10&ordering=-date
 1. Sort output date any field (ordering). 
 2. Select query in date range with params (from, to).
-3. Provides non-get methods only to an admin user.
+3. Provides methods only to an admin user.
 
 **Preloaded admin:**
 
