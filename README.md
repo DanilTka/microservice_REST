@@ -1,5 +1,6 @@
 #  Microservice_REST
-
+Microservice for statistics counters. API methods: get, post, delete. POST fields: date, views*, clicks*, cost*. GET fields: date, views, clicks, cost, cpc**, cpm**. DELETE: involves all statistics.
+- optional*, calculated**
 ## Stack: ##
 
 - **Django**
